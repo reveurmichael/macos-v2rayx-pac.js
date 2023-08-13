@@ -1,8 +1,11 @@
 var V2Ray = "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081; DIRECT;";
 
 var domains = [
+	"atom.io","dependabot.com","ghcr.io","git.io","github.blog","github.com","github.community","github.dev","github.io","githubapp.com","githubassets.com","githubhackathon.com","githubpreview.dev","githubstatus.com","githubuniverse.com","githubusercontent.com","myoctocat.com","opensource.guide","repo.new","thegithubshop.com",
+	"babylonbee.com",
 	"linkedin.com",
 	"zionladder.com",
+	"githubassets.com",
 	"zoom.com",
 	"zoom.us",
 	"player.vimeo.com",
