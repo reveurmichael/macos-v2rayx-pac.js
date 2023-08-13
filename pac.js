@@ -8,6 +8,7 @@ var domains = [
 	"githubassets.com",
 	"zoom.com",
 	"zoom.us",
+	"whatismyipaddress.com",
 	"player.vimeo.com",
 	"vimeo.com",
 	"zoom.com.cn",
