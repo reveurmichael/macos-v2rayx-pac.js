@@ -45,22 +45,16 @@ var domains = [
 	"shadowx.work",
 	"v2ray.com",
 	"astrill.com",
-
-	//Design
 	"deviantart.com",
-
 	"disqus.com",
 	"disquscdn.com",
 	"tumblr.com", 
 	"flickr.com",
 	"imgur.com",
-
 	"evozi.com",
 	"live.com",
 	"1drv.com",
 	"evernote.com",
-
-	//blog
 	"wp.com",
 	"yam.com",
 	"ashchan.com",
@@ -75,8 +69,6 @@ var domains = [
 	"blogger.com",
 	"hexo.io",
 	"medium.com",
-
-	//GeneralNews
 	"rfi.my",
 	"rfi.fr",
 	"washingtonpost.com",
@@ -91,11 +83,7 @@ var domains = [
 	"bbc.com",
 	"on-match.com",
 	"solidot.org",
-
-	//TechNews
 	"engadget.com", 
-
-	//Network
 	"amazonaws.com",
 	"fastly.net",
 	"akamaihd.net", 
@@ -104,24 +92,18 @@ var domains = [
 	"d.pr",
 	"ow.ly",
 	"ift.tt",
-
 	"nateparrott.com",
-	
 	"stacksocial.com",
 	"feedly.com",
 	"acgtea.com",
-
-	//academy and develop
-	"ieee.org",
 	"mathoverflow.net",
 	"tex.stackexchange.com",
+	"stackoverflow.com",
 	"academia.edu",
 	"geogebra.org",
 	"golang.org",
 	"netspeak.org",
 	"endreslab.com",
-
-	//Universities
 	"illinois.edu",
 	"berkeley.edu",
 	"wisc.edu",
@@ -129,19 +111,12 @@ var domains = [
 	"rochester.edu",
 	"purdue.edu",
 	"technolutions.net",
-
 	"netflix.com",
-
-	//Online Dictionary
 	"ldoceonline.com",
 	"freedicts.com",
-
-	//Softwares
 	"formacx.com",
 	"trionworlds.com",
 	"line.me",
-
-	//otaku
 	"e-hentai.org",
 	"nhentai.net",
 	"nicovideo.jp",
@@ -152,30 +127,21 @@ var domains = [
 	"nyaa.se",
 	"share.dmhy.org",
 	"loli.us",
-
-	//facebook
 	"facebook.net",
 	"instagram.com",
 	"facebook.com",
 	"fb.me", 
 	"cdninstagram.com",
 	"fbcdn.net", 
-
 	"booth.pm",
-
 	"telegram.org",
 	"telegram.me",
-
 	"wikipedia.org",
 	"pixiv.net",
 	"twitch.tv",
-
-	//Twitter
 	"twitter.com",  
 	"t.co", 
 	"twimg.com",
-
-	//Google
 	"gmail.com", 
 	"googlemail.com",
 	"mailchimp.com", 
@@ -203,17 +169,11 @@ var domains = [
 	"googletagmanager.com", 
 	"googleadservices.com",
 	"abc.xyz",
-
-	//Dropbox
 	"dropbox.com",
 	"dropboxusercontent.com",
 	"dropboxwiki.com",
-
-	//iTuens
 	"mzstatic.com",
 	"itunes.apple.com",
-
-	//cdn
 	"cloudfront.net",
 	"colwiz.com"
 ];
