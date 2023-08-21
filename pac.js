@@ -175,7 +175,10 @@ var domains = [
 	"mzstatic.com",
 	"itunes.apple.com",
 	"cloudfront.net",
-	"colwiz.com"
+	"colwiz.com",
+	"analyticsvidhya.com",
+	"tenor.com",
+	"giphy.com"
 ];
 
 function FindProxyForURL(url, host) {
