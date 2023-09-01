@@ -178,6 +178,8 @@ var domains = [
 	"colwiz.com",
 	"analyticsvidhya.com",
 	"tenor.com",
+	"quora.com",
+	"reddit.com",
 	"giphy.com"
 ];
 
