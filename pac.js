@@ -180,6 +180,8 @@ var domains = [
 	"tenor.com",
 	"quora.com",
 	"reddit.com",
+	"apkpure.com",
+	"m.apkpure.com",
 	"giphy.com"
 ];
 
